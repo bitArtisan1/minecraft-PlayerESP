@@ -1,0 +1,14 @@
+{
+    "required": true,
+    "minVersion": "0.8",
+    "package": "com.github.calvineries.playeresp.mixin",
+    "compatibilityLevel": "JAVA_21",
+    "refmap": "playeresp.refmap.json",
+    "mixins": [
+    ],
+    "client": [
+    ],
+    "injectors": {
+        "defaultRequire": 1
+    }
+}
