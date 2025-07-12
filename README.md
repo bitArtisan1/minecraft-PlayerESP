@@ -119,6 +119,6 @@ bitArtisan1
   </a>
 </p>
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTZna3FyYnY4M2p5MWtqbDk0bGkyN2RhZ2wxeW5tcThibWR4ZmRybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/szaTML0LZFAQa3do7Y/giphy.gif" alt="Demo GIF" width="600">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTZna3FyYnY4M2p5MWtqbDk0bGkyN2RhZ2wxeW5tcThibWR4ZmRybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/szaTML0LZFAQa3do7Y/giphy.gif" alt="Demo GIF" width="200">
   <br>
 </div>
