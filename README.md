@@ -28,7 +28,7 @@ A client-side Minecraft mod that provides ESP (Extra Sensory Perception) functio
 |-----|----------|
 | `H` | Toggle Hitbox ESP |
 | `N` | Toggle Name ESP |
-| `P` | Open Whitelist Management |
+| `J` | Open Whitelist Management |
 
 ---
 
