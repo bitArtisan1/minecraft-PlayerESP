@@ -8,8 +8,8 @@
         "bitArtisan1"
     ],
     "contact": {
-        "homepage": "https://github.com/bitartisan1/playeresp",
-        "sources": "https://github.com/bitartisan1/playeresp"
+        "homepage": "https://github.com/bitArtisan1/minecraft-PlayerESP",
+        "sources": "https://github.com/bitArtisan1/minecraft-PlayerESP"
     },
     "license": "GPLv3",
     "icon": "assets/playeresp/icon.png",
