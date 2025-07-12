@@ -86,7 +86,7 @@ All commands use the `/pesp` prefix:
 
 ---
 
-## Building
+## Building & Development
 
 ```bash
 ./gradlew build
@@ -94,6 +94,10 @@ All commands use the `/pesp` prefix:
 
 Built jars will be in `build/libs/`
 
+Run test:
+```bash
+./gradlew runClient
+```
 ---
 
 ## Development Note
