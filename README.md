@@ -4,7 +4,7 @@ A client-side Minecraft mod that provides ESP (Extra Sensory Perception) functio
 
 ---
 <div align="center">
-  <img src="[PESP Logo.png](https://github.com/user-attachments/assets/e1273ab9-5515-4401-b3e7-20b85bec2e57)" alt="Description" width="400">
+  <img src="https://github.com/user-attachments/assets/e1273ab9-5515-4401-b3e7-20b85bec2e57" alt="Description" width="400">
   <br>
   <i>Your PlayerESP Mod For Minecraft- PESP</i>
 </div>
