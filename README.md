@@ -111,3 +111,4 @@ This mod was built for personal use. I may maintain it for future Minecraft vers
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
 
 **Author:**
+bitArtisan1
